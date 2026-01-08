@@ -1,7 +1,7 @@
 # DTMSCDSA
 This code and data were provided for the paper "a novel circRNA-drug sensitivity association prediction model based on dynamic topology generation and multi-scale spatial perception"
 # Clone this project
-'''python
+'''python  
 git clone https://github.com/Gou-Ai/DTMSCDSA.git  
 cd DTMSCDSA
 # Requirements
