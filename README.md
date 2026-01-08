@@ -1,7 +1,7 @@
 # DTMSCDSA
 This code and data were provided for the paper "a novel circRNA-drug sensitivity association prediction model based on dynamic topology generation and multi-scale spatial perception"
 # Requirements
-Higher versions should be also available.
+Higher versions should be also available.  
 python 3.7  
 torch==1.13.1+cu117  
 torch-geometric==2.3.1  
