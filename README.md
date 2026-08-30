@@ -61,4 +61,4 @@ The DTMSCDSA workflow includes the following steps:
 3. A dynamic topology generation module is used to update neighborhood relationships and generate multi-layer topological representations.
 4. A multi-scale spatial perception module is used to fuse multi-layer circRNA and drug features.
 5. The learned circRNA and drug representations are concatenated and used for final association prediction with XGBoost.
-6. Model performance is evaluated using AUC, AUPR, MCC, F1-score, precision, recall, specificity, and accuracy.
+6. Model performance is evaluated using AUC, AUPR, F1-score, precision, recall, and accuracy.
